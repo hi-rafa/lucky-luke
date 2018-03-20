@@ -38,3 +38,9 @@ http://www.ck12.org/book/CK-12-Basic-Geometry-Concepts/section/1.0/
 
 #Contribute
 Please feel free to contribute and improve the game.
+
+#Screenshot
+![Alt text](https://raw.githubusercontent.com/hi-rafa/lucky-luke/master/screenshots/img1.png)
+![Alt text](https://raw.githubusercontent.com/hi-rafa/lucky-luke/master/screenshots/img2.png)
+![Alt text](https://raw.githubusercontent.com/hi-rafa/lucky-luke/master/screenshots/img3.png)
+![Alt text](https://raw.githubusercontent.com/hi-rafa/lucky-luke/master/screenshots/img4.png)
