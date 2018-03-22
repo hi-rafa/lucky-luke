@@ -6,7 +6,7 @@ http://rafaelteran.com/game1/
 
 #Motivation
 The reason I created this games it's because I wanted to challenge my self and
-see how far could I go using as less libraries as possible.
+see how far could I go using the minimum libraries possible.
 
 #Resource
 canvas games
