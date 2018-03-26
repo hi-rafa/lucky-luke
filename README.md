@@ -2,7 +2,7 @@
 In this game the player has to control the cowboy lucky luke to kill and survive as long as possible.
 
 #DEMO
-http://rafaelteran.com/game1/
+http://luckylukegame.rafaelteran.com/
 
 #Motivation
 The reason I created this games it's because I wanted to challenge my self and
